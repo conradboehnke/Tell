@@ -3,7 +3,9 @@
 **WICHTIG:**
 BITTE LEST DEN GESAMTEN TEXT!
 BITTE ALLE VON TELL ANGEFORDERTEN BERECHTIGUNGEN (Bei Nutzung der App) AKZEPTIEREN, UM VOLLEN UMFANGEN NUTZEN ZU KÖNNEN!
-Tell ist noch lange NICHT FERTIG, also respektiert bitte, dass es noch viele bekannte Buggs gibt.
+
+Tell ist noch lange NICHT FERTIG, also respektiert bitte, dass 
+es noch viele bekannte Buggs gibt.
 
 Beispiele:
 - Erster Screen nach dem Einloggen ist der Falsche (Müssten die Chats sein)
