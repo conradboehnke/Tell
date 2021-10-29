@@ -40,6 +40,10 @@ Folglich sollte dieses Fenster erscheinen:
 
 Klicke jetzt auf "INSTALLIEREN".
 
+Vorab: Sollt während der Installation etwas wie: "Aktiviere die Installation von Apps aus unbekannten Quellen" kommen, dann tue dies bitte. 
+Die App kann sonst nicht installiert werden... :(
+Du kannst es, wenn du möchtest, auch direkt danach wieder deaktivieren.
+
 Als nächstes wird (wahrscheinlich) folgendes Fenster hervorkommen:
 Dies geschieht daher, weil ich kein offiziell registrierter Google PlayStore Entwickler bin (Wird mit Release der App nicht mehr so sein!)
 ![IMG_20211029_220415](https://user-images.githubusercontent.com/34183744/139495719-ebd98ab4-5ffd-4634-b962-7a19b3220374.jpg)
