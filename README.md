@@ -23,7 +23,7 @@ Entweder im Reallife oder ggf. auf Discord: Cabs#3953
 
 "Tell" ist eine Chat App, die von mir (Conrad Böhnke) entwickelt wird.
 Die App  wird zu 100% von mir entwickelt (API's und Frameworks ausgeschlossen).
--> Ich entickel das Back-End und das Front-End, welches ich auch designe.
+-> Ich entwickel das Back-End und das Front-End, welches ich auch designe.
 Der erste Alpha Release soll Ende 2021 / Anfang 2022 im Playstore für Android erscheinen.
 
 Trotzdessen stelle ich hier immer mal die neusten Updates der App online, die man sich downloaden kann.
