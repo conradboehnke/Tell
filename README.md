@@ -1,23 +1,23 @@
 # Tell
 
 **WICHTIG:**
-BITTE LEST DEN GESAMTEN TEXT!
-BITTE ALLE VON TELL ANGEFORDERTEN BERECHTIGUNGEN (Bei Nutzung der App) AKZEPTIEREN, UM VOLLEN UMFANGEN NUTZEN ZU KÖNNEN!
+BITTE LIES DEN GESAMTEN TEXT!
+BITTE akzeptiere alle von Tell angeforderten Berechtigungen (Bei Nutzung der App), um den vollen Umfang nutzen zu können.
 
-Tell ist noch lange NICHT FERTIG, also respektiert bitte, dass 
-es noch viele bekannte Buggs gibt.
+Tell ist noch lange nicht fertig, also respektiere bitte, dass 
+es noch viele bekannte Bugs gibt.
 
-Beispiele:
+Beispiele für Bugs:
 - Erster Screen nach dem Einloggen ist der Falsche (Müssten die Chats sein)
 
 - Beim Chatten darf die Nachricht nur eine bestimmte Länge haben 
-(Ansonsten wird das Eingabefeld zu groß und verdeckt den Senden-Button)
+(Ansonsten wird das Eingabefeld zu groß und verdeckt den Sende-Button)
 
-- Der Text in dem Eingabefeld setzt sich nach dem Schreiben von Nachrichten zurück, sondern bleibt bestehen
+- Der Text in dem Eingabefeld setzt sich nach dem Schreiben von Nachrichten nicht zurück, sondern bleibt bestehen
  -> Man muss seine vorherige Nachricht löschen
 
-Solltet ihr Buggs bemerken, meldet euch bitte bei mir 
-privat. Entweder im Reallife oder ggf. auf Discord: Cabs#3953
+Solltet ihr Bugs bemerken, meldet euch bitte bei mir privat. 
+Entweder im Reallife oder ggf. auf Discord: Cabs#3953
 
 **Was ist Tell?**
 
