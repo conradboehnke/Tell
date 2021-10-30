@@ -62,7 +62,7 @@ Dies geschieht daher, weil ich kein offiziell registrierter Google PlayStore Ent
 
 Klicke jetzt auf "TROTZDEM INSTALLIEREN"
 
-Zu guter Letzt tritt nerscheint dieses Fenster:
+Zu guter Letzt erscheint noch folgendes Fenster:
 
 (Passiert nicht auf jedem Gerät!)
 ![Screenshot_2021-10-29-22-04-29-310_com android vending](https://user-images.githubusercontent.com/34183744/139495954-ddedc407-93af-4133-8140-039d3c2c53b4.jpg)
