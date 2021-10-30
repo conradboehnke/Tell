@@ -29,10 +29,22 @@ Der erste Alpha Release soll Ende 2021 / Anfang 2022 im Playstore für Android e
 Trotzdessen stelle ich hier immer mal die neusten Updates der App online, die man sich downloaden kann.
 Wie alles funktioniet, erkläre ich als  nun.
 
-
 **Wie installiere ich Tell?**
 
-Downloade dir hier die Datei "Tell.apk" auf dein Android Gerät.
+Downloade dir hier die Datei "Tell.apk" auf dein Android Gerät:
+
+![1635580197422](https://user-images.githubusercontent.com/34183744/139525000-aa5f788d-b741-4f5b-9379-98e79bacd66a.jpg)
+->
+
+![1635580197402](https://user-images.githubusercontent.com/34183744/139525017-4f2ba6d3-fc1e-44b4-9681-ba75c67dcaa0.jpg)
+->
+
+![1635580197417](https://user-images.githubusercontent.com/34183744/139525025-ffa7e2e7-e6ca-47f9-a249-81de664b0648.jpg)
+->
+
+![1635580197410](https://user-images.githubusercontent.com/34183744/139525035-2e929fc9-46da-427a-a10b-8ba362ecedea.jpg)
+
+
 Öffne diese Datei nun bzw. führe diese aus.
 
 Folglich sollte dieses Fenster erscheinen:
