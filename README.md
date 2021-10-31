@@ -7,14 +7,8 @@ BITTE akzeptiere alle von Tell angeforderten Berechtigungen (Bei Nutzung der App
 Tell ist noch lange nicht fertig, also respektiere bitte, dass 
 es noch viele bekannte Bugs gibt.
 
-Beispiele für Bugs:
+Beispiel für Bugs:
 - Erster Screen nach dem Einloggen ist der Falsche (Müssten die Chats sein)
-
-- Beim Chatten darf die Nachricht nur eine bestimmte Länge haben 
-(Ansonsten wird das Eingabefeld zu groß und verdeckt den Sende-Button)
-
-- Der Text in dem Eingabefeld setzt sich nach dem Schreiben von Nachrichten nicht zurück, sondern bleibt bestehen
- -> Man muss seine vorherige Nachricht löschen
 
 Solltet ihr Bugs bemerken, meldet euch bitte bei mir privat. 
 Entweder im Reallife oder ggf. auf Discord: Cabs#3953
