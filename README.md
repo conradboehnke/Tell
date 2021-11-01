@@ -1,6 +1,6 @@
 # Tell
 
-**WICHTIG:**
+# Wichtig
 BITTE LIES DEN GESAMTEN TEXT!
 BITTE akzeptiere alle von Tell angeforderten Berechtigungen (Bei Nutzung der App), um den vollen Umfang nutzen zu können.
 
@@ -13,7 +13,7 @@ Beispiel für Bugs:
 Solltet ihr Bugs bemerken, meldet euch bitte bei mir privat. 
 Entweder im Reallife oder ggf. auf Discord: Cabs#3953
 
-**Was ist Tell?**
+# Was ist Tell?
 
 "Tell" ist eine Chat App, die von mir (Conrad Böhnke) entwickelt wird.
 Die App  wird zu 100% von mir entwickelt (API's und Frameworks ausgeschlossen).
@@ -23,7 +23,7 @@ Der erste Alpha Release soll Ende 2021 / Anfang 2022 im Playstore für Android e
 Trotzdessen stelle ich hier immer mal die neusten Updates der App online, die man sich downloaden kann.
 Wie alles funktioniet, erkläre ich als  nun.
 
-**Wie installiere ich Tell?**
+# Wie installiere ich Tell?
 
 Downloade dir hier die Datei "Tell.apk" auf dein Android Gerät:
 
@@ -68,7 +68,7 @@ Klicke auf "NICHT HOCHLADEN".
 Du kannst nun mit dem Button rechts in der Ecke "Öffnen", die App starten.
 
 
-**Wie beginne ich mit Tell?**
+# Wie beginne ich mit Tell?
 
 Alles fängt mit dem Start-Bildschirm an, auf welchem du mit einem freundlichen "Hello!" begrüßt wirst.
 Wie unten zu erkennen ist, wirst du nun dazu aufgefort, nach links zu swipen (Einfach den Finger von der rechten Seite des Bildschirmes zu der linken Seite des Bildschirmes ziehen/wischen).
@@ -93,7 +93,7 @@ Logge du dich nun mit deinen Daten ein und schon
 **-> BIST DU READY TO TELL! 🙂 🎊 🏁**
 
 
-**Wie funktioniert Tell?**
+# Wie funktioniert Tell?
 
 (Navigiere mit swipen(wischen) oder mit der Navigationsleiste unten)
 
@@ -116,7 +116,6 @@ Dein Chat-Partner wird nun die versendete Nachricht plus einer Benachritigung vo
 
 Möchtest du den Chat beenden, so klicke oben rechts auf die 3 grünen Punkte und dann auf "DELETE CHAT".
 -> Der Chat wird für beide gelöscht!
-
 
 Sollten noch Fragen bestehen, frage mich gerne privat im Reallife oder auf Discord (Cabs#3953) 😉
 
