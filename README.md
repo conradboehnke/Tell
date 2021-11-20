@@ -5,10 +5,12 @@ BITTE LIES DEN GESAMTEN TEXT!
 BITTE akzeptiere alle von Tell angeforderten Berechtigungen (Bei Nutzung der App), um den vollen Umfang nutzen zu können.
 
 Tell ist noch lange nicht fertig, also respektiere bitte, dass 
-es noch viele bekannte Bugs gibt.
+es noch viele bekannte Fehler/Bugs gibt.
 
-Beispiel für Bugs:
-- Erster Screen nach dem Einloggen ist der Falsche (Müssten die Chats sein)
+Beispiele für Fehler:
+- Suche in Chats funktioniert nicht
+- Profilbild lässt sich nicht ändern (Kommt mit neuer Version!)
+
 
 Solltet ihr Bugs bemerken, meldet euch bitte bei mir privat. 
 Entweder im Reallife oder ggf. auf Discord: Cabs#3953
