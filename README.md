@@ -9,7 +9,7 @@ es noch viele bekannte Fehler/Bugs gibt.
 
 Beispiele für Fehler:
 - Suche in Chats funktioniert nicht
-- Profilbild lässt sich nicht ändern (Kommt mit neuer Version!)
+- TellMap laggt leicht
 
 
 Solltet ihr Bugs bemerken, meldet euch bitte bei mir privat. 
