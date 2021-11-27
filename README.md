@@ -99,13 +99,13 @@ Logge du dich nun mit deinen Daten ein und schon
 
 (Navigiere mit swipen(wischen) oder mit der Navigationsleiste unten)
 
-Nach dem du dich erfolgreich eingeloggt hast, landest du nun auf der 1. Seite. Die Tell Identity (Kurz: Tell ID) Seite.
-Auf der siehst du alle deine Daten.
+Nach dem du dich erfolgreich eingeloggt hast, landest du nun auf der Hauptseite. Dort findest du alle deine Chats und zusätzliche Optionen.
+Mit swipen in Richtung rechts kommst du nun auf deine Tell Identity Seite (Kurz: Tell ID). Dort findest du alle deine Daten und zusätzliche Optionen, wie "Settings".
 Am wichtigsten sind für dich dabei dein Nutzername, dein Tag (Bsp.: @1234 ) und deine eigentliche Tell ID.
-Deine Tell ID ist ein QR Code, der alle deine (für Chats relavanten) Informationen darstellt und wiedergeben kann.
-Möchtest du nun einen Chat hinzufügen, navigierst du nach ganz rechts zum Tell ID Scan (Entweder mit swipen oder mit der Navigationsleiste unten).
-Dort angekommen kannst du nun die Tell ID von deinem z.B. Kollegen scannen.
--> Ihr habt nun einen Chat gestartet, der in der Mitte bei "CHATS" sichtbar ist.
+Deine Tell ID ist ein QR Code (Wird immer neugeneriert), der alle deine (für Chats relavanten) Informationen darstellt und wiedergeben kann.
+Möchtest du nun einen Chat hinzufügen klickst du einfach auf den grünen Button über der Navigationsleiste. Nun öffnet sich der Scan Bildschirm.
+Dort angekommen kannst du nun die Tell ID von Freunden, Familie o.Ä. scannen.
+-> Ihr habt nun einen Chat gestartet, der in der Mitte bei "Chats" sichtbar ist.
 
 Klicke nun auf den gewünschten Chat rauf.
 Ab hier funktioniert alles, wie gewohnt:
@@ -115,13 +115,14 @@ Schreibe dort nun deine Nachricht hinein, die du versenden möchtest.
 
 Klicke anschließend auf den grünen Button rechts unten in der Ecke (Neben dem Eingabefeld), um die Nachricht zu versenden.
 Dein Chat-Partner wird nun die versendete Nachricht plus einer Benachritigung von Tell erhalten.
+Alle Nachrichten werden zusätzlich Ende-Zu-Ende Verschlüsselt, um 100% Sicherheit zu gewähren.
 
-Möchtest du den Chat beenden, so klicke oben rechts auf die 3 grünen Punkte und dann auf "DELETE CHAT".
+Möchtest du den Chat beenden, so klicke oben rechts auf die 3 grünen Punkte und dann auf "Delete Chat".
 -> Der Chat wird für beide gelöscht!
 
 Sollten noch Fragen bestehen, frage mich gerne privat im Reallife oder auf Discord (Cabs#3953) 😉
 
-Vielen Dank fürs das Lesen und für die Interesse an Tell 🤍
+Vielen Dank für das Lesen und für die Interesse an Tell 🤍
 Erzähle auch gerne deinen Freunden davon! 🤗
 
 **Somit wünsche ich dir einen wundervollen Tag.**
