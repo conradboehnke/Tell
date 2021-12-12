@@ -103,9 +103,13 @@ Nach dem du dich erfolgreich eingeloggt hast, landest du nun auf der Hauptseite.
 Mit swipen in Richtung rechts kommst du nun auf deine Tell Identity Seite (Kurz: Tell ID). Dort findest du alle deine Daten und zusätzliche Optionen, wie "Settings".
 Am wichtigsten sind für dich dabei dein Nutzername, dein Tag (Bsp.: @1234 ) und deine eigentliche Tell ID.
 Deine Tell ID ist ein QR Code (Wird immer neugeneriert), der alle deine (für Chats relavanten) Informationen darstellt und wiedergeben kann.
-Möchtest du nun einen Chat hinzufügen klickst du einfach auf den grünen Button über der Navigationsleiste. Nun öffnet sich der Scan Bildschirm.
-Dort angekommen kannst du nun die Tell ID von Freunden, Familie o.Ä. scannen.
--> Ihr habt nun einen Chat gestartet, der in der Mitte bei "Chats" sichtbar ist.
+Möchtest du nun einen Chat hinzufügen klickst du einfach auf den grünen Button über der Navigationsleiste. 
+Nun öffnet sich der Scan Bildschirm. Dort angekommen kannst du nun die Tell ID von Freunden, Familie o.Ä. scannen.
+
+**Scanne nun gerne als erstes meine Tell ID :)**
+![1639318236208](https://user-images.githubusercontent.com/34183744/145715967-901ec705-ef54-45ab-ab5f-8353c2a8cbdf.jpg)
+
+-> Wir haben nun einen Chat gestartet, der in der Mitte bei "Chats" sichtbar ist.
 
 Klicke nun auf den gewünschten Chat rauf.
 Ab hier funktioniert alles, wie gewohnt:
