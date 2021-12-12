@@ -118,8 +118,8 @@ Unten findest du ein Eingabefeld "Tell something...".
 Schreibe dort nun deine Nachricht hinein, die du versenden möchtest.
 
 Klicke anschließend auf den grünen Button rechts unten in der Ecke (Neben dem Eingabefeld), um die Nachricht zu versenden.
-Dein Chat-Partner wird nun die versendete Nachricht plus einer Benachritigung von Tell erhalten.
-Alle Nachrichten werden zusätzlich Ende-Zu-Ende Verschlüsselt, um 100% Sicherheit zu gewähren.
+Dein Chat-Partner wird nun die versendete Nachricht plus einer Benachrichtigung von Tell erhalten.
+Alle Nachrichten werden zusätzlich Ende-Zu-Ende verschlüsselt, um 100% Sicherheit zu gewähren.
 
 Möchtest du den Chat beenden, so klicke oben rechts auf die 3 grünen Punkte und dann auf "Delete Chat".
 -> Der Chat wird für beide gelöscht!
