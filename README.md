@@ -133,3 +133,14 @@ Erzähle auch gerne deinen Freunden davon! 🤗
 
 Peace Conrad ✌️
 ~ Tell it
+
+
+# Datenschutz
+
+Tell speichert und verwendet folgendes von dir:
+- Standort (Position für Tell Map. Wird bei starten der App geupdated)
+- E-Mail Adresse
+- Passwort (für niemanden sichtbar)
+- Kamera (Für Scannen von Tell IDs)
+- Internet (Um (Nutzer) Daten zu laden)
+- Profilbild / Dateien
