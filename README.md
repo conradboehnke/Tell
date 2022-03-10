@@ -23,7 +23,7 @@ Die App  wird zu 100% von mir entwickelt (API's und Frameworks ausgeschlossen).
 Der erste Alpha Release soll Ende 2021 / Anfang 2022 im Playstore für Android erscheinen.
 
 Trotzdessen stelle ich hier immer mal die neusten Updates der App online, die man sich downloaden kann.
-Wie alles funktioniet, erkläre ich als  nun.
+Wie alles funktioniert, erkläre ich hier nun.
 
 # Wie installiere ich Tell?
 
@@ -83,7 +83,7 @@ Folgendes wird von dir erwartet:
 
 - Passwort aus mind. 6 Zeichen
 - Eine gültige Email Adresse (Die App erkennt, wenn man etwas, wie "ichhabekeineemailadresse" eingibt ^^).
-- Ein nicht: rassistischer, frauen feindlicher oder pornografischer Namen
+- Ein nicht: rassistischer, frauen feindlicher oder pornografischer Name
 
 Sobald du deinen Nutzernamen (Username), deine Email Adresse und dein (hoffentlich sicheres) Passwort eingegeben hast, klickst du nur noch auf "Register".
 
